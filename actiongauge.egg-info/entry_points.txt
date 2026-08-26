@@ -1,0 +1,2 @@
+[console_scripts]
+actiongauge = actiongauge.cli:main
